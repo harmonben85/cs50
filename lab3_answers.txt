@@ -1,0 +1,17 @@
+sort1 uses: Bubble Sort
+
+How do you know?:
+
+Sort1 performs faster on the already sorted files but slower than sort3 on the reversed.
+
+sort2 uses: Merge Sort
+
+How do you know?:
+
+Sort2 is consistently the fastest algorithm so it is probably Merge Sort.
+
+sort3 uses: Selection Sort
+
+How do you know?:
+
+Sort3 performs slower on the sorted file and faster on the random and reversed than sort1.
